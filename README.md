@@ -1,1 +1,1 @@
-Personal repository for studying Algoeithms and Data Structures
+Personal repository for studying Algorithms and Data Structures
